@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Role
+  m_EditorClassIdentifier: 
+  m_GroupName: Role
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f61e7748e142d344898c9183946074f5
+  m_SerializeEntries:
+  - m_GUID: 412e87946cab55341b79f421e1adcdab
+    m_Address: Farm Horse000
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aed13fe5e6f76da4aa6149cd601c67cd
+    m_Address: Chibi_Cat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 470dc0e56944d6249a8566dd88cc32cd, type: 2}
+    - {fileID: 11400000, guid: f45688aeffbe8b9429174c17d2230b8a, type: 2}

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ScenePrefab
+  m_EditorClassIdentifier: 
+  m_GroupName: ScenePrefab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2a4d59446686ccd4a88aa3c9b9a59661
+  m_SerializeEntries:
+  - m_GUID: 930be464793d1f24f8b48ceb674cf24d
+    m_Address: Scene02_yezi01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0d2d619c6e84b84aae1102cb7312315
+    m_Address: Scene02_Wan01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5523f795c8ad6047a4c45c6bcafa059
+    m_Address: Scene02_mei01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e54c3f35e3d32148b9386073dc3c1c3
+    m_Address: Scene02_hua_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abe8ac57ee216f447b94f06c86ffde15
+    m_Address: Scene01_Ye_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd84219f090a8984493cded34b6e9f4c
+    m_Address: Scene01_wan_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04c51f9eb99238d4187e5658fde48001
+    m_Address: scene01_wan01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d810b49ee1e1e5840a43028f799e276e
+    m_Address: Scene01_Hua01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc8817da93b8a9e4199e831db83f834d
+    m_Address: Scene01_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f30e829b017281a468bdd056caa33e64
+    m_Address: ScoreBar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 094186221b95a6340aeed90022a120bd
+    m_Address: Scene03_hua01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab9daa84d8efc4049bf5b8efdfd8deca
+    m_Address: Scene03_Wan01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bef182687063e645a8aec8d099a9692
+    m_Address: Scene03_Ye01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 951e14fc252d83b4e83ef644d3661774, type: 2}
+    - {fileID: 11400000, guid: 03f6be1fe81341340836e492f059e79a, type: 2}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  m_GroupName: Effects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6a3ecc8effbd4a24cb42831faef72a97
+  m_SerializeEntries:
+  - m_GUID: e00a38c3f1375bd47aac6a93adaaa3c0
+    m_Address: DeadEff_Lan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 72ef264b3ebd43d45a9f414d9413b8b6
+    m_Address: R_Star01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 769b609b41bcad040b6ef035ac6f159f
+    m_Address: Star
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e913d1feee06e924daf4d1c03895f470
+    m_Address: Star
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b051ba8b4398fe44997bd114b4b456aa
+    m_Address: Assets/ArtRes/Effects/ShockWave.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 575e509df26db7141a0a06590cf76bd3, type: 2}
+    - {fileID: 11400000, guid: f198373222c72aa41b2fe34bd696d1dd, type: 2}

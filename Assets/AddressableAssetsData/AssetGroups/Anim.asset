@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Anim
+  m_EditorClassIdentifier: 
+  m_GroupName: Anim
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8292728519fa16f438dbf49740aaf67c
+  m_SerializeEntries:
+  - m_GUID: 0e7c513c585c323429b5618721c2f36f
+    m_Address: Cat_Animator Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f490d40d0cdad94ea67a245b3f1398f
+    m_Address: Horse01_Animator Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6a2578a37f1e2449ac0ee8299c54e48
+    m_Address: hua01Animation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa4562fa675ebc446bc4f3212b33f9fe
+    m_Address: Hua02_Animator Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80cedc22bc5d930479f9d51d3a61e5a9
+    m_Address: Hua02_Animator Controller_Speed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3850ea5222736aa4a91b4af6023369e7
+    m_Address: Hua02_Animator ControllerA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a14c3d7148ff6740a683828221bf2ad
+    m_Address: hua02Animation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8cc4167d26c59a14fa94255207da5472
+    m_Address: Hua03_Animator Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fa7a8d313ea6b245b16e03d60d1d79c
+    m_Address: Hua03_Animator Controller_Speed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21b59fc5a0f48b847ba08f7948c09257
+    m_Address: Hua03_Animator ControllerA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb3a911f993cc4b4dbd4dc9ab87841d4
+    m_Address: Hua03_Animator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fcf1c6d7b49a3649b6c52f509146735
+    m_Address: Hua_Animator Controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b32bc94420c01b46b6ab88ca781126c
+    m_Address: Hua_Animator Controller_Speed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a237c70e254e17e4ca4b9b02db2fe949
+    m_Address: Hua_Animator ControllerA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8aa7ef8f7b594354688cb86e7b180a7c, type: 2}
+    - {fileID: 11400000, guid: ad22f80226e7d5c4589898b400e40fe2, type: 2}

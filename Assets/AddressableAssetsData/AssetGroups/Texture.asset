@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Texture
+  m_EditorClassIdentifier: 
+  m_GroupName: Texture
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 933ae1185d84f694d8d53c22e56449c3
+  m_SerializeEntries:
+  - m_GUID: 5beb4dd3a08e32e41815407efb99904d
+    m_Address: sky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 299d26224a3df844c84c60598e2147fe
+    m_Address: Scene_huaTu01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b85fb1446b106f43b571945e1341c5e
+    m_Address: Farm Horse 01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b729f0341d139204385e8058276c0197
+    m_Address: Menu_Di
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d533b14e9d3da8646af807a6eb2ae42d
+    m_Address: Menu_Sky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28f198f201bb20a4baa7ed6d5e35f06a
+    m_Address: T_Chibi_Cat_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 051992363f1b09248958565cc88ebd2f
+    m_Address: T_Chibi_Cat_02 -A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e24e354102a3c9d459d8dc5bd7b98609
+    m_Address: T_Chibi_Cat_N
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5cbd665c8f65c646b226b8ec9b7de02
+    m_Address: T_Chibi_Emo_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b52854cc50fe5424f9c6c4ef980fc3b4
+    m_Address: UB09601
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1ddd973102ca5e48932148354036b6d
+    m_Address: UD02301
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d7db1575f3c6ec49894fdc373e6a9d5
+    m_Address: UE03701
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98ca87b7d6f10924c801dcbb5c7ab2e9
+    m_Address: UE20101
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1ec23f7341805514baf587c1c6f97a00, type: 2}
+    - {fileID: 11400000, guid: 6730c7cc23a97954ea85d3c58082826f, type: 2}

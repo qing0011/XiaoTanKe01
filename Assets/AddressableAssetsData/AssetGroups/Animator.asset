@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Animator
+  m_EditorClassIdentifier: 
+  m_GroupName: Animator
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ee00c315ad30bd846b22c6c7aa74b4bc
+  m_SerializeEntries:
+  - m_GUID: 5396668e9f7b4b940b00cb8400a22228
+    m_Address: Anim_Chibi@Alert
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5d51419198bd0c4d92b7776ae4de9a4
+    m_Address: Anim_Chibi@Angry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 560d9fef05e22d04c97b8bdd6d3eafd8
+    m_Address: Anim_Chibi@Damage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa2fc45c2f79e5b4fa0ebd6bccffd6cd
+    m_Address: Anim_Chibi@DieA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18765b4bc319cbe419c18e2e0e45c6ef
+    m_Address: Anim_Chibi@Idle05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a077ca9522f32454aaf6833cafc90af1
+    m_Address: Anim_Chibi@Jump
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba0ca2146d9d0974fb7274d8053cd310
+    m_Address: Anim_Chibi@Make_A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3d867ce8306db8459963486dc1153e5
+    m_Address: Anim_Chibi@Move
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a372039614ddb442854bcbf414c893a
+    m_Address: Anim_Chibi@Yes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b92611581aca214cbe55cdcc5f5b5c9
+    m_Address: Farm Horse@Jump W Root
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 37937e6d1f6f67e41aac55a5aa6736f5, type: 2}
+    - {fileID: 11400000, guid: 3b92fd60a76767840bb4449655635041, type: 2}

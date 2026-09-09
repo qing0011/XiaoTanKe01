@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UITexture
+  m_EditorClassIdentifier: 
+  m_GroupName: UITexture
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d063c6721e81ab34aa38fd3ae80f9d9d
+  m_SerializeEntries:
+  - m_GUID: a0edbaa1228f35c478fd8f80f36f11ea
+    m_Address: Items02-hd_68
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 582154b5341d9914cbf3d4a7af1c87d3
+    m_Address: Items02-hd_88
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e7d3b8c818f51e4e92b9621f02e7d16
+    m_Address: Items02-hd_92
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9822534d58079146be689a75273f82e
+    m_Address: themescene1-hd_30
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f8577dba31e8ad4fbf23de56f69810e
+    m_Address: TK_PaiHangBang_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4839b5ea6529d342b9ed3ae524e02be
+    m_Address: TK_QianDao_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2a40f8736331f94e8e296614fc7595f
+    m_Address: TK_Return_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cbc0f8e91d1a3f47a7889d0439d1740
+    m_Address: TK_SheZhi_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2e359882b33d454cb4bc392e58d0d5e
+    m_Address: TK_YouXiang_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43abb1abf1cacb54aad7ba4de4c196b6
+    m_Address: TK_ZhuYe_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6605849ef8c23af47906b4b74f5b2899
+    m_Address: Meniu_Close
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77c7b6567beab264b87a7cf63333c261
+    m_Address: Menu_D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 466ed78ba0c4fa141b7a4119e5713b34
+    m_Address: Menu_D01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b71e85f90e30cd641b85f224d5fedf70
+    m_Address: Menu_D01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a48225c51e620b14680416055502cadd
+    m_Address: Menu_D02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c94f4727b40d5454d9a7b391ff8f64f2
+    m_Address: Menu_D03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97e146376b661cf4fb30dcb23e490399
+    m_Address: Menu_D04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5103edf7b936f6e49a37d5ed1afc5910
+    m_Address: Menu_D05
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9cb7e0ae91832e54a834dc94878a5f15
+    m_Address: setting02-hd_6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4df6b68ce6c47e4ea9a69f8bf1617a6
+    m_Address: setting02-hd_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67a0fb45e7d17154db35352c11b68011
+    m_Address: setting02-hd_15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 258262c77969a7642b5532320879fb1e
+    m_Address: setting02-hd_21
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d905152f1c00bee4f9445850c692bb7b
+    m_Address: themescene1-hd_25
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ade236a0b215b2e4d8b5af5fb55709a6
+    m_Address: Tili
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19c1aa142fb69b646aaa891bc7fd7bf9
+    m_Address: TK_JinBi_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a2f765a927bee247af9b9060c1ad579
+    m_Address: touming-hd.pvr_7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23fb2acac528d964b8f8ad491fdb4509
+    m_Address: touming-hd.pvr_9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ad2c632301707041a5909629d20aa80
+    m_Address: touming-hd.pvr_11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9cdbe5b3915bff04fbe735350d6b5234
+    m_Address: touming-hd.pvr_12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dea1bd066c5b8964eaa1be424f8070ae
+    m_Address: touming-hd.pvr_26
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 090f0973c5fde2b4c992de74ba1150cc
+    m_Address: TK_Hight_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8460d81afbe5413469919f392a5d9f94, type: 2}
+    - {fileID: 11400000, guid: 541d65498ad7891488f2d8e865e46e02, type: 2}

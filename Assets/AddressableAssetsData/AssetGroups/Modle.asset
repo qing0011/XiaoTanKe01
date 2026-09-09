@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Modle
+  m_EditorClassIdentifier: 
+  m_GroupName: Modle
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 09719fd71f2c473418ff2d2a54f6fff7
+  m_SerializeEntries:
+  - m_GUID: 93ec149216711524096e68d5e2768395
+    m_Address: scene01_wan01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88d810162143aba46ae3aed23cb1999f
+    m_Address: scene01_Ye01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b804acf0cb789664baa176034ac9d2ed
+    m_Address: Scene02_hua01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0dce3cdc6dd99b549af28a524998bbc2
+    m_Address: Scene02_mei01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26b4b22920255774f9dfd5eb5ae431e9
+    m_Address: Scene02_mei002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d7d0c49571c5734eb5a87de65bda049
+    m_Address: Scene02_Wan01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17c9ed81ebb4fec4ab8bad06ff9c86e2
+    m_Address: Scene02_yezi01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04ebc4fa90edf3b498701420b2090675
+    m_Address: Scene03_hua01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5b70e912c79ab547935d00c176381e7
+    m_Address: Scene03_Wan01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f1447ca82b43f345b895bdd76859d7d
+    m_Address: Scene03_Ye01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 698b521a7d009d4429c62e09e25abc3b
+    m_Address: caomei
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2a00b18613692e44893bd3ab1a93a89
+    m_Address: Grass_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 141dd46face17df4f9d2e25a1f7a5f9e
+    m_Address: Grass_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5d2771a31a73d24dba2ff964d6231ec
+    m_Address: Scene01_Hua01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc58f54ead267754bb22e4f00b727310
+    m_Address: Scene_Map01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a96623df2893c804d82f68826bf29660
+    m_Address: Sky_001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4346eda0c4b68245a5d9e8a80faa621
+    m_Address: Taizi_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 368b027aedf746342b9fa367e9889e2e
+    m_Address: Wood_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aab7785e60604a34c89721ab17bd7c8c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f01c7134a2af02f49b1a671a8c2b8f22, type: 2}
+    - {fileID: 11400000, guid: eeeb00e1f0f526b45a3c3898df873ddc, type: 2}
