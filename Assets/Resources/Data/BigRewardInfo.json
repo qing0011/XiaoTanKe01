@@ -1,0 +1,7 @@
+[
+{"round":1,"name":"满1周签奖励","reward":100,"rewardType":"金币"},
+{"round":2,"name":"满2周签奖励","reward":100,"rewardType":"金币"},
+{"round":3,"name":"满3周签奖励","reward":200,"rewardType":"金币"},
+{"round":4,"name":"满4周签奖励","reward":200,"rewardType":"金币"},
+{"round":5,"name":"满5周签奖励","reward":200,"rewardType":"金币"}
+]
