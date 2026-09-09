@@ -1,0 +1,9 @@
+[
+{"id":1,"res":"SingnIn/SingnIn_01","reward":50,"rewardType":"金币"},
+{"id":2,"res":"SingnIn/SingnIn_02","reward":1,"rewardType":"体力"},
+{"id":3,"res":"SingnIn/SingnIn_03","reward":80,"rewardType":"金币"},
+{"id":4,"res":"SingnIn/SingnIn_04","reward":1,"rewardType":"体力"},
+{"id":5,"res":"SingnIn/SingnIn_05","reward":100,"rewardType":"金币"},
+{"id":6,"res":"SingnIn/SingnIn_06","reward":2,"rewardType":"体力"},
+{"id":7,"res":"SingnIn/SingnIn_07","reward":200,"rewardType":"金币"}
+]

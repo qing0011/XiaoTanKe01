@@ -1,0 +1,9 @@
+[
+{"id":1,"res":"UI/SignIn1","reward":100,"rewardType":"金币"},
+{"id":2,"res":"UI/SignIn2","reward":100,"rewardType":"金币"},
+{"id":3,"res":"UI/SignIn3","reward":200,"rewardType":"金币"},
+{"id":4,"res":"UI/SignIn4","reward":200,"rewardType":"金币"},
+{"id":5,"res":"UI/SignIn5","reward":300,"rewardType":"金币"},
+{"id":6,"res":"UI/SignIn6","reward":300,"rewardType":"金币"},
+{"id":7,"res":"UI/SignIn7","reward":400,"rewardType":"金币"}
+]
