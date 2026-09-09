@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3492779232782855944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3492779232782855942}
+  - component: {fileID: 3492779232782855945}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3492779232782855942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3492779232782855944}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3492779232782855945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3492779232782855944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8881c90a6bb8a4047aca2578520db89c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  backgroundMusic: {fileID: 8300000, guid: b2dcd9a6cb0144a49b5120cd784722df, type: 3}
+  gameBackgroundMusic: {fileID: 8300000, guid: dbf42f5214cb38e49b31a038b78a960b, type: 3}
+  masterVolume: 1
+  musicVolume: 0.666
+  sfxVolume: 0.2
+  soundLibrary:
+  - soundName: Step
+    clip: {fileID: 8300000, guid: 64d7791b608238342a446e7af0712613, type: 3}
+  - soundName: Fail
+    clip: {fileID: 8300000, guid: 0d076f2ca27f49e4791fae572a888579, type: 3}
+  - soundName: Score
+    clip: {fileID: 8300000, guid: 0e7efe278fb49b447b5da7aaf554d0bf, type: 3}
+  - soundName: Perfect
+    clip: {fileID: 8300000, guid: d78624bbe975dec42aa43bdc8cd21be3, type: 3}
